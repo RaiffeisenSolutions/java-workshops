@@ -1,0 +1,2 @@
+#Exercise 1
+Implement static method printing any list with elements separated with ';' and '(' and ')' as opening and closing characters (eg. "**(Jan;Karol;Dawid;Marcin)**"). Find the simplest possible solution
