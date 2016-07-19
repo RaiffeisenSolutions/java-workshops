@@ -1,11 +1,6 @@
 # Exercise 1
 ## Random number generators
 What is the following program going to print out?
-* Very long number
-* Two random strings separated with spacebar, without any '`'
-* Hello world
-* Two random strings separated with spacebar, with possible '`'
-* The program won't compile
 
 ```
 import java.util.Random;
@@ -30,6 +25,12 @@ public class RandomStrings {
     }
 }
 ```
+
+a) Very long number
+b) Two random strings separated with spacebar, without any '`'
+c) Hello world
+d) Two random strings separated with spacebar, with possible '`'
+e) The program won't compile
 
 # Exercise 2
 Write a function to generate and print random currency rate. It's definition looks as follows
