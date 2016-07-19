@@ -26,11 +26,11 @@ public class RandomStrings {
 }
 ```
 
-a) Very long number
-b) Two random strings separated with spacebar, without any '`'
-c) Hello world
-d) Two random strings separated with spacebar, with possible '`'
-e) The program won't compile
+1. Very long number
+2. Two random strings separated with spacebar, without any '`'
+3. Hello world
+4. Two random strings separated with spacebar, with possible '`'
+5. The program won't compile
 
 # Exercise 2
 Write a function to generate and print random currency rate. It's definition looks as follows
