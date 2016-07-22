@@ -11,3 +11,10 @@ Show the usage of the classes.
 # Exercise 3
 Create **compund interest calculator**. It should provide the following method:
 `BigDecimal getAccumulatedValue(BigDecimal principalSum, BigDecimal nominalInterestRate, BigDecimal compoundingFrequency, BigDecimal numberOfYear)`. The formula can be found in [Wikipedia](https://en.wikipedia.org/wiki/Compound_interest)
+
+# Exercise 4
+Read about creating classes and inheritance in Java. Propose classes' structure of the following system:
+* We want to keep information about `PoweredDevices`. Every `PoweredDevice` works under some `voltage`
+* The `Scanner` is a `PoweredDevice` and has some `scanningResolution`
+* The `Printer` is another `PoweredDevice` and has some `pagesPerMinute` speed
+* The `Photocopier` combines the fuctions of `Scanner` and `Printer`. Some models (of`Photocopiers`) can also be connected to the Internet.
